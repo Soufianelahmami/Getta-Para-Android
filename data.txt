@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "1ec3f30d-8d8d-4d89-b650-1d6490a11e98",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXfU2p.webp",
+	 "title": "Getta Para Android",
+	 "text": "GettaHub is an all-in-one task management app designed for Android users who want a seamless and efficient way to organize their tasks and to-dos. The app aims to integrate various features and functionalities to enhance the user experience.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXf84R.webp",
+	 "title": "Getta Para Android",
+	 "text": "Centralized hub for all your tasks, allowing you to view and manage tasks from different sources in one place.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdXfkCJ.webp",
+	 "title": "Getta Para Android",
+	 "text": "Share tasks and to-dos with friends, family, or colleagues. Collaborative editing for shared tasks.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXfvEv.webp",
+	 "title": "Getta Para Android",
+	 "text": "Share tasks and to-dos with friends, family, or colleagues. Collaborative editing for shared tasks.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXfOQa.webp",
+	 "title": "Getta Para Android",
+	 "text": "Customizable reminders for tasks with notifications to keep you on track.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdXfNhg.webp",
+	 "title": "Getta Para Android",
+	 "text": "User-friendly design with support for dark mode to reduce eye strain during nighttime usage.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
